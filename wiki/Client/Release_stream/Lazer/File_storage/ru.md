@@ -1,6 +1,6 @@
-# File storage in osu!(lazer)
+# Хранилище данных в osu!(lazer)
 
-By default, osu!(lazer) stores beatmaps, skins, and score replay files in the following directories:
+osu!(lazer) по умолчанию хранит карты, скины и записи игры в следующих директориях:
 
 - `%appdata%/osu/files` (Windows),
 - `~/.local/share/osu/files` (Linux),
