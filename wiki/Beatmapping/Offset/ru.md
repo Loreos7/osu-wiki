@@ -2,12 +2,14 @@
 stub: true
 tags:
   - offsets
+  - офсет
+  - оффсет
 ---
 
-# Offset
+# Оффсет
 
-*For other uses, see [Offset (disambiguation)](/wiki/Disambiguation/Offset).*
+*У этого термина существуют и другие значения, см.: [Оффсет (значения)](/wiki/Disambiguation/Offset).*
 
-A [beatmap](/wiki/Beatmap)'s **offset** is the amount of time between the start of the audio file and the song's first downbeat measured in milliseconds. Offset is used to determine a beatmap's [timing](/wiki/Client/Beatmap_editor/Timing), alongside [beats per minute (BPM)](/wiki/Beatmapping/Beats_per_minute) and [meter](https://en.wikipedia.org/wiki/Metre_(music)).
+**Оффсет** — это количество миллисекунд между началом аудиофайла и [первым тиком](/wiki/Music_theory/Downbeat) [карты](/wiki/Beatmap). Он используется наряду с [ударами в минуту (BPM)](/wiki/Beatmapping/Beats_per_minute) и [метром](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D1%80_(%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0)) для того, чтобы [затаймить](/wiki/Client/Beatmap_editor/Timing) карту.
 
-Videos included with [beatmaps](/wiki/Beatmap) also have offsets that can be set similarly to song offsets.
+Видео, встроенное в [карту](/wiki/Beatmap), так же может иметь оффсет.
